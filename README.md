@@ -1,10 +1,20 @@
 # San Andreas Stories - Landing Page
 
-Bem-vindo à landing page do **San Andreas Stories**, um servidor de roleplay no SA-MP! Esta página é composta exclusivamente por imagens que capturam a essência do nosso servidor.
+Esta é a landing page desenvolvida para o **San Andreas Stories**, um servidor de roleplay no SA-MP. O design foi criado por mim, [Seu Nome], com um enfoque em um layout minimalista e moderno.
+
+## Sobre o Design
+
+A landing page foi projetada com as seguintes tecnologias:
+
+- **HTML**: Estrutura da página.
+- **Tailwind CSS**: Estilização moderna e responsiva.
+- **JavaScript**: Funcionalidades dinâmicas para uma melhor interatividade.
+
+O objetivo do design é proporcionar uma experiência agradável e intuitiva, destacando as informações de forma clara e visualmente atrativa.
 
 ## Imagens
 
-Aqui estão algumas imagens que representam o ambiente e a experiência do San Andreas Stories:
+Aqui estão algumas imagens que ilustram a landing page:
 
 ![Imagem 1](https://i.imgur.com/mX5fuXZ.png)  
 ![Imagem 2](https://i.imgur.com/8SQb2mY.png)  
@@ -17,15 +27,19 @@ Aqui estão algumas imagens que representam o ambiente e a experiência do San A
 
 As imagens podem ser usadas para:
 
-- **Promoção**: Compartilhe nas redes sociais.
-- **Inspiração**: Crie seu próprio conteúdo relacionado ao servidor.
+- **Promoção**: Compartilhar nas redes sociais.
+- **Inspiração**: Criar conteúdo relacionado ao servidor.
+
+## Sobre Mim
+
+Sou um desenvolvedor apaixonado por design e programação, focado em criar experiências únicas e funcionais. Meu trabalho é voltado para a usabilidade e estética, garantindo que cada projeto atenda às necessidades dos usuários.
 
 ## Contato
 
 Para mais informações, entre em contato:
 
-- **Email**: seuemail@example.com
-- **Discord**: seuusuario#1234
+- **Email**: gabrielpassosvaz2017@gmail.com
+- **Discord**: gabrielsam.
 
 ## Licença
 
@@ -33,4 +47,4 @@ Este projeto está licenciado sob a MIT License.
 
 ---
 
-Obrigado por visitar o San Andreas Stories! Junte-se a nós e faça parte da nossa comunidade de roleplay!
+Obrigado por conferir a landing page do San Andreas Stories!
