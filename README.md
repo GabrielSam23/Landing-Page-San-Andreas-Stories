@@ -4,9 +4,14 @@ Bem-vindo à landing page do **San Andreas Stories**, um servidor de roleplay no
 
 ## Imagens
 
-Aqui está uma imagem que representa o ambiente e a experiência do San Andreas Stories:
+Aqui estão algumas imagens que representam o ambiente e a experiência do San Andreas Stories:
 
-![Imagem do San Andreas Stories](https://i.imgur.com/mX5fuXZ.png)
+![Imagem 1](https://i.imgur.com/mX5fuXZ.png)  
+![Imagem 2](https://i.imgur.com/8SQb2mY.png)  
+![Imagem 3](https://i.imgur.com/0ovPFVG.png)  
+![Imagem 4](https://i.imgur.com/mgG6EQq.png)  
+![Imagem 5](https://i.imgur.com/08VRk8c.png)  
+![Imagem 6](https://i.imgur.com/Jw0jy0J.png)  
 
 ## Como Usar
 
