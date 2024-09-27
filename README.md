@@ -1,6 +1,6 @@
 # San Andreas Stories - Landing Page
 
-Esta é a landing page desenvolvida para o **San Andreas Stories**, um servidor de roleplay no SA-MP. O design foi criado por mim, [Seu Nome], com um enfoque em um layout minimalista e moderno.
+Esta é a landing page desenvolvida para o **San Andreas Stories**, um servidor de roleplay no SA-MP. O design foi criado por mim, [gabrielsam], com um enfoque em um layout minimalista e moderno.
 
 ## Sobre o Design
 
